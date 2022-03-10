@@ -1,0 +1,17 @@
+{
+  "name": "CodeceptJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.0",
+    "mochawesome": "^7.1.2",
+    "webdriver": "^7.16.16"
+  }
+}
