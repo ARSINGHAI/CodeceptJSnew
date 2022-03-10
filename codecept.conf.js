@@ -21,6 +21,7 @@ exports.config = {
     I: './steps_file.js',
     homePage : './Pages/homePage.js',
     checkoutPage : './Pages/checkoutPage.js',
+    paymentPage : './Pages/paymentPage.js',
     
   },
   bootstrap: null,
