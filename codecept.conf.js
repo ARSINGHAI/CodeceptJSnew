@@ -25,6 +25,16 @@ exports.config = {
     
   },
   bootstrap: null,
-  mocha: {},
-  name: 'CodeceptJS'
+  mocha: {
+    reporterOptions : {
+      mochaFile : "output/result.xml",
+      repertDir : "output"
+    }
+  },
+  name: 'CodeceptJS',
+  Plugins :{
+    stepBystepReport : {
+      enabled : true,
+    }
+  }
 }
