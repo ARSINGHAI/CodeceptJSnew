@@ -9,4 +9,4 @@ following helpers can be enabled depending on testers's choice
 ▶ Nightmare
 ▶ TestCafe
 
-This is a sample project  demonstrations of skill and capabilities.
+This is a sample project  for demonstrations of skill and capabilities.
